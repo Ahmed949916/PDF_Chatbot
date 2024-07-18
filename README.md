@@ -8,8 +8,6 @@ Chat with your PDFs, offline and privately.  Unlock the knowledge hidden within 
 
 * [Features](#features)
 * [How it Works](#how-it-works)
-* [Getting Started](#getting-started)
-* [Contributing](#contributing)
 * [License](#license)
 
 ## Features
