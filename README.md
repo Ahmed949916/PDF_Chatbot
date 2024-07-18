@@ -12,6 +12,7 @@ Chat with your PDFs, offline and privately.  Unlock the knowledge hidden within 
 
 ## Features
 
+* **Multiple Version:** Local as well as react based application for front-end.
 * **Local Processing:** All interactions and data remain on your machine, ensuring privacy and offline access.
 * **PDF Compatibility:**  Upload and chat with any PDF document.
 * **Intelligent Responses:**  Leverages advanced language models (phi-3) for accurate and contextually relevant answers.
