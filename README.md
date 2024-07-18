@@ -1,6 +1,6 @@
 # Local PDF Chatbot
 
-[Image or animated GIF showcasing the chatbot in action]
+![WhatsApp Image 2024-07-16 at 13 27 12_67928848](https://github.com/user-attachments/assets/a754ed38-deda-458a-9b89-6d10e828fd66)
 
 Chat with your PDFs, offline and privately.  Unlock the knowledge hidden within your documents through a simple conversational interface.
 
