@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>800</width>
+    <height>600</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>PDF Interaction Tool</string>
+  </property>
+  <property name="styleSheet">
+   <string>
+    QMainWindow {
+        background-color: #1e1e2d; /* Dark grayish purple */
+        border-radius: 5px;
+
+    }
+   </string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QLineEdit" name="pdfPathLineEdit">
+    <property name="geometry">
+     <rect>
+      <x>40</x>
+      <y>390</y>
+      <width>651</width>
+      <height>23</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string>
+      QLineEdit {
+          border: 2px solid #5a189a; /* Purple */
+          color: #f4f4f9; /* Very light gray */
+          background-color: #262533; /* Very dark grayish violet */
+          border-radius: 5px;
+
+      }
+     </string>
+    </property>
+   </widget>
+   <widget class="QTextEdit" name="queryTextEdit">
+    <property name="geometry">
+     <rect>
+      <x>40</x>
+      <y>440</y>
+      <width>651</width>
+      <height>23</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string>
+      QTextEdit {
+          border: 2px solid #5a189a;
+          border-radius: 5px;  
+          color: #f4f4f9;
+          background-color: #262533;
+      }
+     </string>
+    </property>
+   </widget>
+   <widget class="QTextEdit" name="outputTextEdit">
+    <property name="geometry">
+     <rect>
+      <x>40</x>
+      <y>30</y>
+      <width>741</width>
+      <height>351</height>
+     </rect>
+    </property>
+    <property name="readOnly">
+     <bool>true</bool>
+    </property>
+    <property name="styleSheet">
+     <string>
+      QTextEdit {
+          border: 2px solid #5a189a;
+          color: #f4f4f9;
+          background-color: #262533;
+          border-radius: 15px;
+
+      }
+     </string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="triggerButton">
+    <property name="geometry">
+     <rect>
+      <x>700</x>
+      <y>440</y>
+      <width>90</width>
+      <height>40</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Enter</string>
+    </property>
+    <property name="styleSheet">
+     <string>
+      QPushButton {
+          color: #ffffff;
+          background-color: #7209b7;
+          border-radius: 5px;
+          padding: 6px;
+      }
+      QPushButton:hover {
+          background-color: #480ca8;
+      }
+     </string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="selectFileButton">
+    <property name="geometry">
+     <rect>
+      <x>700</x>
+      <y>390</y>
+      <width>90</width>
+      <height>40</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Upload PDF</string>
+    </property>
+    <property name="styleSheet">
+     <string>
+      QPushButton {
+          color: #ffffff;
+          background-color: #7209b7;
+          border-radius: 5px;
+          padding: 8px;
+      }
+      QPushButton:hover {
+          background-color: #480ca8;
+      }
+     </string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>800</width>
+     <height>21</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
