@@ -1,0 +1,86 @@
+.pdf-chatbot-container {
+    
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+   
+  }
+  
+  .pdf-chatbot-container h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .pdf-chatbot-container label {
+    display: block;
+    margin-top: 10px;
+  }
+  
+  .pdf-chatbot-container input[type="text"] {
+    width: 90%; 
+    
+    
+    padding: 8px;
+    margin-top: 5px;
+    border: none;
+    border-radius: 4px;
+    background-color: #444;
+    color: #fff;
+    overflow: scroll;
+  }
+  
+  .pdf-chatbot-container input[type="file"] {
+    display: none; /* Hide the default file input */
+  }
+  
+  .pdf-chatbot-container .custom-file-upload {
+    display: inline-block;
+    padding: 6px 12px;
+    cursor: pointer;
+    background-color: #56ada6;
+    color: rgb(0, 0, 0);
+    border: none;
+    border-radius: 4px;
+    text-align: center;
+    width: 90%;
+    
+  }
+  
+  .pdf-chatbot-container .custom-file-upload:hover {
+    background-color: #c0fdff;
+  }
+  
+  .pdf-chatbot-container .submitbutton {
+    padding: 6px 12px;
+    display: inline;
+    float: right;
+    cursor: pointer;
+    background-color:#333;
+    color: rgb(0, 0, 0);
+    border: none;
+    border-radius: 4px;
+    margin: 10px; 
+    text-align: center;
+   
+    
+  }
+  .pdf-chatbot-container button:hover {
+    background-color:#333;
+  }
+  .output-window {
+    border: 1px solid #707070;
+    padding: 10px;
+    width: 90%;
+    height: 300px;
+    overflow: auto;
+    background-color: #444;
+    margin-top: 20px;
+    scrollbar-width: none;
+  }
+  
+  .output-window p {
+    margin: 0;
+    color: #fff;
+  }
+  
