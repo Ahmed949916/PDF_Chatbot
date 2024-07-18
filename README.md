@@ -8,9 +8,7 @@ Chat with your PDFs, offline and privately.  Unlock the knowledge hidden within 
 
 * [Features](#features)
 * [How it Works](#how-it-works)
-* [Getting Started](#getting-started)
-* [Contributing](#contributing)
-* [License](#license)
+* [Installation](#installation)
 
 ## Features
 
@@ -33,4 +31,4 @@ Chat with your PDFs, offline and privately.  Unlock the knowledge hidden within 
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/your-Ahmed949916/PDF_Chatbot.git](https://github.com/your-Ahmed949916/PDF_Chatbot.git)
+   git clone https://github.com/your-Ahmed949916/PDF_Chatbot.git
