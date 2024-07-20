@@ -2,6 +2,9 @@
 
 ![WhatsApp Image 2024-07-16 at 13 27 12_67928848](https://github.com/user-attachments/assets/a754ed38-deda-458a-9b89-6d10e828fd66)
 
+![WhatsApp Image 2024-07-21 at 02 53 28_7a67b1a3](https://github.com/user-attachments/assets/c16a155a-68f9-467a-bf1e-b548e97d2817)
+
+
 Chat with your PDFs, offline and privately.  Unlock the knowledge hidden within your documents through a simple conversational interface.
 
 ## Table of Contents
