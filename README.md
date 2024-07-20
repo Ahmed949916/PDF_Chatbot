@@ -33,3 +33,7 @@ Chat with your PDFs, offline and privately.  Unlock the knowledge hidden within 
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/your-Ahmed949916/PDF_Chatbot.git
+
+
+
+pdfchatbot-webapp is for stream-lit version
